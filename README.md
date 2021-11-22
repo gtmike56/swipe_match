@@ -18,4 +18,4 @@ Swipe & Match – an app for people looking for new friends and dates. Just swip
  <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/userDetails.png" width="310" height="672">.  <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/photoScaleGif.gif" width="310" height="672">.  
  
  ### Messaging with matched users
- <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/matchesMessaging.png" width="310" height="672">.  <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/chatWindow.png" width="310" height="672">.  <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/registrationHorizontal.png" width="672" height="310">.  
+ <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/matchesMessaging.png" width="310" height="672">.  <img src="https://github.com/gtmike56/gtmike56.github.io/raw/main/SwipeAndMatch/Screenshots/chatWindow.png" width="310" height="672">. 
